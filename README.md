@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá eu sou o Davi Cardoso Guimarães👋
 
-<!--
-**DaviCardoso07/DaviCardoso07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Estudante do curso técnico integrado em informática do IFCE</h3>
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estudando HTML5,CSS3,JAVASCRIPT e JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Como entrar em contato comigo:</h3>
+<div> 
+  <a href = "mailto:davicardosoguimaraes8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<p align="left">
+</p>
+
+<h3 align="left">linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
