@@ -1,9 +1,7 @@
 <div align="center">
 
   <!-- Typing SVG Animado -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Davi!+👋;Estudante+de+Inform%C3%A1tica+%40+IFCE;Desenvolvedor+em+Forma%C3%A7%C3%A3o+🚀" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Davi.)](https://git.io/typing-svg)
 
   <p align="center">
     <b>Estudante do Curso Técnico Integrado em Informática no IFCE</b>
@@ -48,16 +46,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
-</div>
-
----
 
 ### 📬 Vamos conversar?
 
