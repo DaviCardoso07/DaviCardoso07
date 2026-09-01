@@ -1,13 +1,13 @@
-<div align="center">
+<div align="left">
 
   <!-- Typing SVG Animado -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Davi.)](https://git.io/typing-svg)
 
-  <p align="center">
+  <p align="left">
     <b>Estudante do Curso Técnico Integrado em Informática no IFCE</b>
   </p>
 
-  <p align="center">
+  <p align="left">
     <a href="mailto:davicardosoguimaraes8@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
