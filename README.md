@@ -23,7 +23,6 @@
 - 💡 Apaixonado por tecnologia, lógica de programação e desenvolvimento de software.
 - 🌱 Atualmente aprofundando conhecimentos em **HTML5**, **CSS3**, **JavaScript** e **Java**.
 - 🛠️ Também possuo experiência com **Python** e bancos de dados **MySQL**.
-- 🎯 Buscando evoluir constantemente e construir projetos práticos.
 
 ---
 
