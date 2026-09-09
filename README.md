@@ -1,6 +1,5 @@
 <div align="left">
-
-  <!-- Typing SVG Animado -->
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Davi.)](https://git.io/typing-svg)
 
   <p align="left">
@@ -52,5 +51,5 @@
 
 <div align="center">
   <br />
-  <p><i>"A única maneira de fazer um ótimo trabalho é amar o que você faz."</i></p>
+  <p><i>"Faz o que deves e está no que fazes" - São Josemaría Escrivá</i></p>
 </div>
